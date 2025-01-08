@@ -1,0 +1,28 @@
+plans: [
+{
+unit: mono
+requirements: [
+copper/5
+]
+time: 500
+}
+{
+unit: alpha
+requirements: [
+graphite/5
+silicon/5
+lead/10
+]
+time: 1000
+}
+{
+unit: oct
+requirements: [
+graphite/50
+silicon/50
+lead/100
+copper/100
+]
+time: 3500
+}
+]

@@ -1,0 +1,19 @@
+plans: [
+{
+unit: bryde
+requirements: [
+lead/25
+copper/25
+]
+time: 1500
+}
+{
+unit: cyerce
+requirements: [
+graphite/5
+lead/25
+copper/25
+]
+time: 1500
+}
+]

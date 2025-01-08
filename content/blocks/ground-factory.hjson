@@ -1,0 +1,27 @@
+plans: [
+{
+unit: precept
+requirements: [
+graphite/5
+silicon/5
+lead/50
+copper/5
+]
+time: 1500
+}
+{
+unit: dagger
+requirements: [
+copper/15
+]
+time: 500
+}
+{
+unit: crawler
+requirements: [
+lead/8
+coal/10
+]
+time: 1000
+}
+]

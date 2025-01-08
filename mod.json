@@ -1,0 +1,9 @@
+{
+    "name": "bitvastran",
+    "displayName": "[yellow]Битва стран",
+    "author": "Belogvardeec",
+    "description": "[orange]Эксклюзивный мод для игры в битвы стран. Перерабатывает крафты юнитов.",
+    "Version": 1.0,
+    "minGameVersion": 136,
+    "hidden": false
+}
