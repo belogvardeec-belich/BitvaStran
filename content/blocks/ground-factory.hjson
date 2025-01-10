@@ -48,9 +48,9 @@ copper/25
 time: 250
 }
 {
-unit: latum
+unit: renale
 requirements: [
-silicon/5
+silicon/10
 ]
 time: 500
 }
