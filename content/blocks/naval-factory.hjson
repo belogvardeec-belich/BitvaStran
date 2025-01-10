@@ -1,18 +1,73 @@
 plans: [
 {
-unit: bryde
+unit: risso
+requirements: [
+lead/15
+]
+time: 1500
+}
+{
+unit: minke
 requirements: [
 lead/25
-copper/25
+]
+time: 1500
+}
+{
+unit: bryde
+requirements: [
+lead/35
+]
+time: 1500
+}
+{
+unit: sei
+requirements: [
+lead/45
+]
+time: 1500
+}
+{
+unit: omura
+requirements: [
+lead/65
+silicon/5
+]
+time: 3500
+}
+{
+unit: retusa
+requirements: [
+lead/15
+]
+time: 1500
+}
+{
+unit: oxynoe
+requirements: [
+lead/25
 ]
 time: 1500
 }
 {
 unit: cyerce
 requirements: [
-graphite/5
-lead/25
-copper/25
+lead/35
+]
+time: 1500
+}
+{
+unit: aegires
+requirements: [
+lead/45
+]
+time: 1500
+}
+{
+unit: navanax
+requirements: [
+lead/65
+silicon/5
 ]
 time: 1500
 }
