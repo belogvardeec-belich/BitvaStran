@@ -2,7 +2,7 @@ plans: [
 {
 unit: mono
 requirements: [
-copper/5
+copper/25
 ]
 time: 500
 }
@@ -10,18 +10,16 @@ time: 500
 unit: alpha
 requirements: [
 graphite/5
-silicon/5
 lead/10
 ]
 time: 1000
 }
 {
-unit: oct
+unit: obviate
 requirements: [
-graphite/50
-silicon/50
-lead/100
-copper/100
+graphite/5
+lead/25
+copper/5
 ]
 time: 3500
 }
